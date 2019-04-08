@@ -32,6 +32,7 @@
                 <a class="nav-link" href="<?php echo base_url();?>posts">BLOG</a>
             </li>
             <li><a>No Change</a></li>
+            <li><a>This is post branch</a></li>
         </ul>
 
 
