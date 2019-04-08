@@ -1,0 +1,15 @@
+.posts-date{
+    background: #FDF6E3;
+    padding: 4px;
+    margin: 3px 0;
+    display: block;
+}
+
+.post-thumb{
+    width: 20%;
+}
+
+.well{
+    width: 50%;
+    height: 70%;
+}
